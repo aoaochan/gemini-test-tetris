@@ -1,6 +1,6 @@
-# gemini-test-tetris
+# Gemini Project Configuration: Console Tetris
 
-This repository is for testing the gemini-cli.
+This file provides context to Gemini for the Console Tetris project.
 
 ## Project Overview
 
@@ -31,4 +31,3 @@ This repository is for testing the gemini-cli.
 - **D:** Move Right
 - **S:** Move Down
 - **W:** Rotate
-- **Q:** Hard Drop
